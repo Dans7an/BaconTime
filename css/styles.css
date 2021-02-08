@@ -1,0 +1,29 @@
+/* TAG SELECTORS */
+body {
+  font-style: oblique;
+  word-spacing: 1rem;
+  font-size: 2.7em;
+}
+h1 {
+  color: red;
+}
+img:hover {
+  background-color: blue;
+}
+/* CLASS SELECTORS */
+.bacon{
+  background-color: green;
+}
+.broccoli{
+  background-color: red;
+}
+.rice{
+  background-color: black;
+}
+.chicken{
+  background-color: grey;
+}
+/* ID SELECTORS */
+#recipe:hover {
+  color: gold;
+}
